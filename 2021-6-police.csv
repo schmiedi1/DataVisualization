@@ -1,4 +1,4 @@
-Type,Date,Latitude,Longitude,Gender,Age range,Self-defined ethnicity,Officer-defined ethnicity,Legislation,Object of search,1Outcome
+type,date,latitude,longitude,gender,age range,self-defined ethnicity,officer-defined ethnicity,legislation,object of search,outcome
 Person and Vehicle search,2021-06-01T00:00:00+00:00,51.527286,-0.215815,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest
 Person search,2021-06-01T00:20:00+00:00,51.47025,-0.068988,Male,over 34,Other ethnic group - Not stated,Black,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Arrest
 Person search,2021-06-01T00:29:00+00:00,51.378421,-0.090113,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Arrest
